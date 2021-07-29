@@ -1,0 +1,1 @@
+![Ray分布式架构说明图](images/../Ray的架构图.png)![Ray分布式架构-增加了Driver](images/../Ray架构-增加了Driver.png)
